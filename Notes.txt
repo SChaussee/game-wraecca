@@ -1,0 +1,10 @@
+WaterPlain0008
+
+Sea Colour
+R: 127
+G: 147
+B: 187
+Hex: 7E93B6FF
+
+
+Shader: Lowpoly water
